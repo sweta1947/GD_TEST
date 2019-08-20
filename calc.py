@@ -10,4 +10,5 @@ def multiply(x,y)
 def divide(x,y):
 	"""Decide"""
 	return x/y
- 
+def show(x):
+	return x
